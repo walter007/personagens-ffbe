@@ -1,0 +1,12 @@
+package com.ws.personagensFFBE.enums;
+
+public enum Classe {
+	ATACANTE_FISICO,
+	ATACANTE_MAGICO,
+	ATACANTE_HIBRIDO,
+	BUFFER,
+	BREAKER,
+	HEALER,
+	TANKER_FISICO,
+	TANKER_MAGICO
+}
